@@ -1,0 +1,20 @@
+
+#display{  width:100%; display: inline-block; background-color: #EBEBEB; padding-top: 157px; }
+#inputvalue0 { padding: 0 20px 0 10px;  }
+#inputvalue1 { font-size: 40px; padding: 0 20px 20px 10px;  }
+
+.input_value_0 {font-size: 15px; color: gray; font-weight: bold; text-align: right;}
+.input_value_1 {font-size: 30px; font-weight: bold; text-align: right; }
+
+#leftPannel{display: inline-block; width: 68%; margin:0; float: left;}
+#rightPannel ul li {padding: 10px 0; }
+#rightPannel ul li:hover {background-color: #d5d5d5; }
+#btnCon{ height: 330px;  width: 100%; display: inline-block; }
+#btnCon button{width: 25%; margin: 25%; margin: 0; text-align: center; padding: 20px; float: left; font-size: 18px; line-height: 24px;
+                border-color: #EBEBEB; border-width: 1px; border-style: solid; display: inline-block;}
+#btnCon .cal{background-color:#F4F4F4; }
+#btnCon .value_btn{background-color: #FBFBFB;font-weight: bold; }
+#resultBtn{background-color: #8DBDE3}
+#rightPannel{background-color: #EBEBEB; float: left; width: 32%; display: inline-block; height: 580px; overflow-y: auto;}
+#rightPannel #noData{padding: 20px 10px 0 10px; font-weight: bold; font-size: 15x; }
+#rightPannel #logPannel{display: none; }
